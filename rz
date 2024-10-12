@@ -26,21 +26,21 @@ library.theme = {
     cursor = true,
     cursorimg = "https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f",
     backgroundcolor = Color3.fromRGB(20, 20, 20),
-    tabstextcolor = Color3.fromRGB(240, 240, 240),
+    tabstextcolor = Color3.fromRGB(173, 216, 230),
     bordercolor = Color3.fromRGB(60, 60, 60),
     accentcolor = Color3.fromRGB(28, 56, 139),
-    accentcolor2 = Color3.fromRGB(16, 31, 78),
-    outlinecolor = Color3.fromRGB(60, 60, 60),
+    accentcolor2 = Color3.fromRGB(173, 216, 230),
+    outlinecolor = Color3.fromRGB(173, 216, 230),
     outlinecolor2 = Color3.fromRGB(0, 0, 0),
-    sectorcolor = Color3.fromRGB(30, 30, 30),
+    sectorcolor = Color3.fromRGB(173, 216, 230),
     toptextcolor = Color3.fromRGB(255, 255, 255),
     topheight = 48,
-    topcolor = Color3.fromRGB(30, 30, 30),
-    topcolor2 = Color3.fromRGB(30, 30, 30),
+    topcolor = Color3.fromRGB(173, 216, 230),
+    topcolor2 = Color3.fromRGB(173, 216, 230),
     buttoncolor = Color3.fromRGB(49, 49, 49),
-    buttoncolor2 = Color3.fromRGB(39, 39, 39),
+    buttoncolor2 = Color3.fromRGB(173, 216, 230),
     itemscolor = Color3.fromRGB(200, 200, 200),
-    itemscolor2 = Color3.fromRGB(210, 210, 210)
+    itemscolor2 = Color3.fromRGB(173, 216, 230)
 }
 
 function library:CreateWatermark(name, position)
